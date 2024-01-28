@@ -1,0 +1,80 @@
+/* /* h1
+{ */
+
+    body{
+
+
+        max-width: fit-content;
+        max-height: fit-content;
+        background-image: url(hand-painted-watercolor-pastel-sky-background_23-2148902771.avif);
+    }
+
+
+
+
+   h1{
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    /* font-stretch: expanded; */
+    /* transition-delay: 0.3s; */
+    padding: 20px;
+    border: 3px solid red;
+    border-radius: 20px;
+    width: 500px;
+    }
+ 
+  p1{
+    
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    
+  }
+  div {
+
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+    background: rgb(241, 138, 20);
+    transition-property: width;
+    transition-duration: 2s;
+    /* transition-property: height;
+    transition-duration: 2s;
+     */
+
+  }
+  
+  div:hover {
+    width: 300px;
+    height: auto;
+    /* position: absolute;  */
+
+  }
+  h3{
+    
+    position: static;
+    font-style: italic; 
+    font-weight: bold;
+    font-display: block;
+  }
+
+  #logo {
+    max-width: 370px;
+    max-height: 250px;
+    background-image: url(download.jpeg);
+    display: block;
+    margin: 0 auto;
+    text-indent: 9999px;
+    width: 50;
+    height: 120px;
+  }
+
+  #logo2 {
+    max-width: 370px;
+    max-height: 250px;
+    background-image: url(insta005.jpeg);
+    display: block;
+    margin: 0 auto;
+    text-indent: 9999px;
+    width: 50;
+    height: 120px;
+  }
